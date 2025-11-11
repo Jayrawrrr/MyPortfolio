@@ -46,7 +46,7 @@ const About = () => {
             </a>
             
             <a
-              href="https://linkedin.com"
+              href="https://www.linkedin.com/in/jireh-mecate-879a09391/"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-3 text-gray-700 dark:text-gray-300 hover:text-teal-600 dark:hover:text-teal-400 transition-colors group"
